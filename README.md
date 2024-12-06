@@ -5,8 +5,7 @@ Para o meu segundo trabalho de Inteligencia Artificial eu selecionei o uso de um
 
 # Descrição e origem dataset
 
-Bom, o dataset selecionado não é baseado em dados escritos e sim apenas por imagens, foi selecionado no https://www.kaggle.com/datasets
-
+Bom, o dataset selecionado não é baseado em dados escritos e sim apenas por imagens, foi selecionado no https://www.kaggle.com/datasets, o data set em exatos seria https://www.kaggle.com/datasets/luischuquimarca/banana-ripeness-images-datasets possui 980 imagens de bananas verdes e bananas verdes com umas marcas
 
 # O Trabalho Possui
 Pré-processamento das imagens,

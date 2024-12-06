@@ -1,0 +1,7 @@
+pip install pillow
+pip install numpy
+pip install matplotlib
+pip install tensorflow
+OBS:
+As bibliotecas zipfile, os, e random fazem parte da biblioteca padrão do Python e não precisam ser instaladas separadamente.
+

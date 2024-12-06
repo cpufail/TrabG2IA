@@ -10,13 +10,18 @@ Bom, o dataset selecionado não é baseado em dados escritos e sim apenas por im
 
 # O Trabalho Possui
 Pré-processamento das imagens,
+
 criação do modelo,
+
 treinamentos e ajustes,
+
 classicação de exportação.
 
 *As imagens foram redimensionadas para 80x80 pixels, convertidas para escala de cinza e normalizadas para valores entre 0 e 1.
+
 *Foram atribuídos rótulos para cada imagem: 0 para a classe "rejeitado" e 1 para a classe "aprovado".
-O dataset foi dividido em conjuntos de treinamento: 830 amostras e validação: restante das amostras, correspondendo a cerca de 15% dos dados.
+
+*O dataset foi dividido em conjuntos de treinamento: 830 amostras e validação: restante das amostras, correspondendo a cerca de 15% dos dados.
 
 
 # Análise e conclusão

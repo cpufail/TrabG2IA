@@ -1,6 +1,6 @@
 # Justificativa de IA escolhida
 
-Para o meu segundo trabalho de Inteligencia Artificial eu selecionei o uso de uma rede neural, mais especificamente um classificador de bananas, de inicio eu estava sem muitas ideias, porém eu estava em busca diante de milhares de datasets, foi então que eu olhei no google sala de aula que o professor tinha falado sobre datasets de bananas, logo fui atrás de datasets em relação a este assunto e eu me  encantei.
+Para o meu segundo trabalho de Inteligencia Artificial eu selecionei o uso de uma rede neural, mais especificamente um classificador de bananas, onde ele classifica bananas baseadas em imagens cinzas as que estão totalmente lisas, ou seja, verdes ele irá rejeitas, já as maduras que são as que terão algumas marcas ele irá exportar, de inicio eu estava sem muitas ideias, porém eu estava em busca diante de milhares de datasets, foi então que eu olhei no google sala de aula que o professor tinha falado sobre datasets de bananas, logo fui atrás de datasets em relação a este assunto e eu me  encantei.
 
 
 # Descrição e origem dataset

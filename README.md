@@ -27,8 +27,10 @@ classicação de exportação.
 # Análise e conclusão
 
 Seleciona 40 imagens para testes se a previsão foi maior que 0.5 as bananas irão para a exportação caso contrario sera rejeitado.
-Por mais grande que o dataset pareça ele acaba limitando a capacidade do modelo, um dataset maior poderia melhorar o desempenho,
-a maior dificuldade foi extrair o arquivo .zip que é o nosso dataset, eu não consegui extrair .csv, pois aparentemente não suporta imagens, 
+
+Concluindo, Por mais grande que o dataset pareça ele acaba limitando a capacidade do modelo, um dataset maior poderia melhorar o desempenho,
+a maior dificuldade foi extrair o arquivo .zip que é o nosso dataset, eu não consegui extrair .csv, pois aparentemente não suporta imagens e sim apenas dados tabelados,
+
 
 
 
